@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+
